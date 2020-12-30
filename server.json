@@ -1,0 +1,19 @@
+{
+	"Articles": [{
+			"id": 1,
+			"title": "A modder has made a Nintendo 64 that’s smaller than the original’s controller",
+			"text": "Yes, cartridges. This isn’t an emulator, this is an actual Nintendo 64 that was cut, soldered, and otherwise modded to fit into a handheld package, complete with screen, battery, and controls (the joysticks are from a Nintendo Switch, chosen for their diminutive size).At three and a half inches,the screen is smaller than what you’ d be used to when playing an N64,and it has a resolution of 320 x 240. Making up the shell are two different plastics,with the back being more heat - resistant— an important consideration when you’ re using a motherboard designed to be in a roomy home console."
+		},
+		{
+			"id": 2,
+			"title": "Among Us isn’t just blowing up on Twitch — it’s dominating mobile gaming",
+			"text": "Among Us has been one of the biggest games of the year, and thanks to new data from Sensor Tower, we have an idea of just how huge it has been on mobile: it was the top game on both the iOS App Store and Google Play in Q3 2020, according to Sensor Tower’s data. Sensor Tower also estimates that Among Us — which was first released in 2018 — passed 100 million downloads just in Q3 2020, significantly eclipsing the more than 68 million downloads for the next highest-downloaded game, My Talking Tom Friends.It seems likely that the game will.continue to be massively popular.for the next little.while.As I write this,it’ s still at the top of the App Store and Google Play free games charts.And on PC,where it costs $4 .99,Among Us is currently the fourth - most - played game on Steam,sitting below only Counter - Strike: Global Offensive,Dota 2,and PUBG.Among Us has also been a hit on Twitch,up a full 650 percent in hours watched from July to August.The game’ s popularity has also trickled over to Discord,which has seen a huge spike in mobile downloads.Developer InnerSloth has canceled a planned Among Us sequel to focus on the first game "
+		},
+		{
+			"id": 3,
+			"title": "Fall Guys wasn’t the biggest game on Twitch in August, but it was close",
+			"text": "You’ve played Fall Guys, right? The sleeper hit of The Summer That Wasn’t from developer Mediatonic? If you haven’t, well, I suggest you give it a shot, if only because it was the second biggest game this month on Twitch — and the second largest debut there this year. (Valorant’s launch in April was bigger, but Fall Guys did manage to beat out Animal Crossing: New Horizons for the second spot.) It sold 7 million copies on Steam and was the most downloaded game ever on PlayStation Plus. Huge!Among Us has burned up the Twitch charts.for last month,too.It’ s up a full 650 percent in hours watched from last month,which is good enough to put it at 11 th place on the most popular categories on Twitch,just below Minecraft.Expect that number to go up this month.But let’ s zoom outfor a second.Twitch itself is growing,too(so is Facebook Gaming; more on that in a sec).According to StreamElements and Arsenal.gg’ s monthly report,Twitch,six months on,is still growing.In August,the company posted its first month - over - month rise since April— 1.47 billion hours watched,"
+
+		}
+	]
+}
