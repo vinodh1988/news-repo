@@ -9,6 +9,7 @@ import { ContactComponent } from './pages/contact/contact.component';
 import { SubscriptionComponent } from './pages/subscription/subscription.component';
 import { CommentboxComponent } from './components/commentbox/commentbox.component';
 import { CommentComponent } from './components/comment/comment.component';
+import { PostComponent } from './components/post/post.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { CommentComponent } from './components/comment/comment.component';
     ContactComponent,
     SubscriptionComponent,
     CommentboxComponent,
-    CommentComponent
+    CommentComponent,
+    PostComponent
   ],
   imports: [
     BrowserModule,
