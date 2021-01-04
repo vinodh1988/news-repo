@@ -8,7 +8,6 @@ import { article } from 'src/app/models/article';
 })
 export class PostComponent implements OnInit {
 @Input() article:any;
-  constructor() { }
 
   ngOnInit(): void {
   }

@@ -35,5 +35,31 @@
       "text": "The Rocketbook Everlast Smart Notebook has 36 reusable pages that—if written on with Pilot FriXion pens, markers, or highlighters—can be wiped clean with a damp cloth. After 15 seconds, the ink dries and you can scan the notes with your smartphone’s camera to Dropbox, iCloud, or Google Drive. The notebook comes with one pen.",
       "id": 7
     }
-  ]
+  ],
+  "comments":[
+     {
+       "id":1,
+       "name": "Arjun",
+       "date": "12th January 2020",
+       "message": "Awesome Article!!!" ,
+       "articleid":1
+     },
+
+     {
+      "id":2,
+      "name": "Giri",
+      "date": "13th January 2020",
+      "message": "Awesome Article!!! Worthy Read" ,
+      "articleid":1
+    },
+    {
+      "id":3,
+      "name": "Shaun",
+      "date": "11th January 2020",
+      "message": "?Funny Article..Must Read" ,
+      "articleid":2
+    }
+ ]
+  
+
 }

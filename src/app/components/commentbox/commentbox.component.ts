@@ -1,4 +1,5 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
+import { CommentsService } from 'src/app/services/comments.service';
 
 @Component({
   selector: 'app-commentbox',
@@ -7,9 +8,16 @@ import { Component, OnInit } from '@angular/core';
 })
 export class CommentboxComponent implements OnInit {
 
-  constructor() { }
+@Input()  articleid:number=0;
+comments:any=[];
+    constructor(private cs:CommentsService)  { }
 
   ngOnInit(): void {
+
+      this.cs.getComments(this.articleid).subscribe(
+        (data:any)=>this.comments=data,
+        ()=>this.comments=""
+      );
   }
 
 }
