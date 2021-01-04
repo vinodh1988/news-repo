@@ -3,14 +3,17 @@
     <h5>Title</h5>
     <br/>
     
-    <input type="text" class="title-text">
+    <input type="text" class="title-text" [(ngModel)]="title">
     <br/>
     <br/>
     <h5>Article</h5>
 
     <br/>
-    <textarea></textarea>
+    <textarea [(ngModel)]="text"></textarea>
     <br/>
     <br/>
-    <button class="btn btn-dark">Submit Article</button>
+    <ul>
+        <li *ngFor="let x of errors">{{x}}</li>
+    </ul>
+    <button class="btn btn-dark" (click)="postData()">Submit Article</button>
 </div>

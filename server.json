@@ -1,19 +1,39 @@
 {
-	"Articles": [{
-			"id": 1,
-			"title": "A modder has made a Nintendo 64 that’s smaller than the original’s controller",
-			"text": "Yes, cartridges. This isn’t an emulator, this is an actual Nintendo 64 that was cut, soldered, and otherwise modded to fit into a handheld package, complete with screen, battery, and controls (the joysticks are from a Nintendo Switch, chosen for their diminutive size).At three and a half inches,the screen is smaller than what you’ d be used to when playing an N64,and it has a resolution of 320 x 240. Making up the shell are two different plastics,with the back being more heat - resistant— an important consideration when you’ re using a motherboard designed to be in a roomy home console."
-		},
-		{
-			"id": 2,
-			"title": "Among Us isn’t just blowing up on Twitch — it’s dominating mobile gaming",
-			"text": "Among Us has been one of the biggest games of the year, and thanks to new data from Sensor Tower, we have an idea of just how huge it has been on mobile: it was the top game on both the iOS App Store and Google Play in Q3 2020, according to Sensor Tower’s data. Sensor Tower also estimates that Among Us — which was first released in 2018 — passed 100 million downloads just in Q3 2020, significantly eclipsing the more than 68 million downloads for the next highest-downloaded game, My Talking Tom Friends.It seems likely that the game will.continue to be massively popular.for the next little.while.As I write this,it’ s still at the top of the App Store and Google Play free games charts.And on PC,where it costs $4 .99,Among Us is currently the fourth - most - played game on Steam,sitting below only Counter - Strike: Global Offensive,Dota 2,and PUBG.Among Us has also been a hit on Twitch,up a full 650 percent in hours watched from July to August.The game’ s popularity has also trickled over to Discord,which has seen a huge spike in mobile downloads.Developer InnerSloth has canceled a planned Among Us sequel to focus on the first game "
-		},
-		{
-			"id": 3,
-			"title": "Fall Guys wasn’t the biggest game on Twitch in August, but it was close",
-			"text": "You’ve played Fall Guys, right? The sleeper hit of The Summer That Wasn’t from developer Mediatonic? If you haven’t, well, I suggest you give it a shot, if only because it was the second biggest game this month on Twitch — and the second largest debut there this year. (Valorant’s launch in April was bigger, but Fall Guys did manage to beat out Animal Crossing: New Horizons for the second spot.) It sold 7 million copies on Steam and was the most downloaded game ever on PlayStation Plus. Huge!Among Us has burned up the Twitch charts.for last month,too.It’ s up a full 650 percent in hours watched from last month,which is good enough to put it at 11 th place on the most popular categories on Twitch,just below Minecraft.Expect that number to go up this month.But let’ s zoom outfor a second.Twitch itself is growing,too(so is Facebook Gaming; more on that in a sec).According to StreamElements and Arsenal.gg’ s monthly report,Twitch,six months on,is still growing.In August,the company posted its first month - over - month rise since April— 1.47 billion hours watched,"
-
-		}
-	]
+  "Articles": [
+    {
+      "id": 1,
+      "title": "A modder has made a Nintendo 64 that’s smaller than the original’s controller",
+      "text": "Yes, cartridges. This isn’t an emulator, this is an actual Nintendo 64 that was cut, soldered, and otherwise modded to fit into a handheld package, complete with screen, battery, and controls (the joysticks are from a Nintendo Switch, chosen for their diminutive size).At three and a half inches,the screen is smaller than what you’ d be used to when playing an N64,and it has a resolution of 320 x 240. Making up the shell are two different plastics,with the back being more heat - resistant— an important consideration when you’ re using a motherboard designed to be in a roomy home console."
+    },
+    {
+      "id": 2,
+      "title": "Among Us isn’t just blowing up on Twitch — it’s dominating mobile gaming",
+      "text": "Among Us has been one of the biggest games of the year, and thanks to new data from Sensor Tower, we have an idea of just how huge it has been on mobile: it was the top game on both the iOS App Store and Google Play in Q3 2020, according to Sensor Tower’s data. Sensor Tower also estimates that Among Us — which was first released in 2018 — passed 100 million downloads just in Q3 2020, significantly eclipsing the more than 68 million downloads for the next highest-downloaded game, My Talking Tom Friends.It seems likely that the game will.continue to be massively popular.for the next little.while.As I write this,it’ s still at the top of the App Store and Google Play free games charts.And on PC,where it costs $4 .99,Among Us is currently the fourth - most - played game on Steam,sitting below only Counter - Strike: Global Offensive,Dota 2,and PUBG.Among Us has also been a hit on Twitch,up a full 650 percent in hours watched from July to August.The game’ s popularity has also trickled over to Discord,which has seen a huge spike in mobile downloads.Developer InnerSloth has canceled a planned Among Us sequel to focus on the first game "
+    },
+    {
+      "id": 3,
+      "title": "Fall Guys wasn’t the biggest game on Twitch in August, but it was close",
+      "text": "You’ve played Fall Guys, right? The sleeper hit of The Summer That Wasn’t from developer Mediatonic? If you haven’t, well, I suggest you give it a shot, if only because it was the second biggest game this month on Twitch — and the second largest debut there this year. (Valorant’s launch in April was bigger, but Fall Guys did manage to beat out Animal Crossing: New Horizons for the second spot.) It sold 7 million copies on Steam and was the most downloaded game ever on PlayStation Plus. Huge!Among Us has burned up the Twitch charts.for last month,too.It’ s up a full 650 percent in hours watched from last month,which is good enough to put it at 11 th place on the most popular categories on Twitch,just below Minecraft.Expect that number to go up this month.But let’ s zoom outfor a second.Twitch itself is growing,too(so is Facebook Gaming; more on that in a sec).According to StreamElements and Arsenal.gg’ s monthly report,Twitch,six months on,is still growing.In August,the company posted its first month - over - month rise since April— 1.47 billion hours watched,"
+    },
+    {
+      "title": "dummy",
+      "text": "dummy dummy dummy",
+      "id": 4
+    },
+    {
+      "title": "5 easy fixes for common computer problems",
+      "text": "Staying secure in the modern world is more difficult than ever. Every day, we face threats to our identities, our personal information, our data, and even ourselves. From malware attacks to phishing schemes, we survey the security landscape. It takes a lot more than some anti-virus software to stay safe. We go beyond the sensationalism to assess which threats could pose the biggest problems and dig into the repercussions that ripple through our lives once security has been compromised. KEEP GOING",
+      "id": 5
+    },
+    {
+      "title": "Digital notebooks that are actually better than pen and paper",
+      "text": "While pens, pencils, and quills still work magic on a piece of paper, writing utensils for your bullet journal can be a pain to carry around. I still have nightmares from the stacks of paper in my high school backpack. If you’re like me, know you have the option to leave the loose sheets and explosion-prone ink pens in the past. Here are some high-tech digital notebooks to bring your handwriting into a digital era.",
+      "id": 6
+    },
+    {
+      "title": "Reusable: Rocketbook Everlast Smart Notebook",
+      "text": "The Rocketbook Everlast Smart Notebook has 36 reusable pages that—if written on with Pilot FriXion pens, markers, or highlighters—can be wiped clean with a damp cloth. After 15 seconds, the ink dries and you can scan the notes with your smartphone’s camera to Dropbox, iCloud, or Google Drive. The notebook comes with one pen.",
+      "id": 7
+    }
+  ]
 }
